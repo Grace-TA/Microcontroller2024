@@ -1,6 +1,9 @@
 # MC2024 - 實作4: 七段顯示器, LCD 顯示器 + 超音波感測器
 
-## Lab 4-1 用七段顯示器來顯示數字"8."
+## Lab 4-1 用七段顯示器來顯示數字"8" (ON / OFF)
+
+![image](https://github.com/Grace-TA/Microcontroller2024/assets/89304181/5a864acf-b969-42ac-a57f-245e4d15e598)
+
 
 ## Lab 4-2 如下圖的Demo, 用七段顯示器, 顯示 . →1→ ... → 9 → 0 → 全滅, 狀態改變的間隔時間為0.5秒
 
