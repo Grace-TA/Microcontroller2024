@@ -17,9 +17,12 @@ https://github.com/Grace-TA/Microcontroller2024/assets/89304181/d5dda3c2-ba8c-40
 
 ## Lab 4-4 整合超音波感測器 + LCD + LED: 參考之前的實作, 完成以下任務:
 
+https://github.com/Grace-TA/Microcontroller2024/assets/89304181/42f02598-ee9b-4896-acb6-98b19872b9b1
 
 ### 1. **將超音波感測器傳回的距離, 在LCD上面顯示,**
 
 ### 2. **同時也和之前的實作一樣, 在序列輸出.**
 
 ### 3. **另外, 當物體的距離小於150cm時, 則亮紅色LED, 否則亮綠色LED**
+
+Refernce lab: https://www.tinkercad.com/things/aAnZLF9La9f-copy-of-vnulab4-3lcd20240526/editel?sharecode=0TlPxBdpybMwcAcVunjcxqHmarEolv5NfsHbuu7v73w
