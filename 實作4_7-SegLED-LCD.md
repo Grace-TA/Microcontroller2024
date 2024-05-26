@@ -13,6 +13,8 @@ https://www.tinkercad.com/things/0x0vSV3ukNt-copy-of-vnulab4-120240519/editel?sh
 
 ## Lab 4-3 LCD顯示"Hello" + 你的英文名字 (e.g., "Hello Horace")
 
+https://github.com/Grace-TA/Microcontroller2024/assets/89304181/d5dda3c2-ba8c-40a1-97bd-ead3ac595002
+
 ## Lab 4-4 整合超音波感測器 + LCD + LED: 參考之前的實作, 完成以下任務:
 
 ### 1. **將超音波感測器傳回的距離, 在LCD上面顯示,**
