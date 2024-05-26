@@ -17,6 +17,9 @@ https://github.com/Grace-TA/Microcontroller2024/assets/89304181/d5dda3c2-ba8c-40
 
 ## Lab 4-4 整合超音波感測器 + LCD + LED: 參考之前的實作, 完成以下任務:
 
+![image](https://github.com/Grace-TA/Microcontroller2024/assets/89304181/5d2cefbe-7471-4634-9489-6493f485e912)
+
+
 ### 1. **將超音波感測器傳回的距離, 在LCD上面顯示,**
 
 ### 2. **同時也和之前的實作一樣, 在序列輸出.**
