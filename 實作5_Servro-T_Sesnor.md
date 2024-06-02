@@ -8,6 +8,7 @@
 
 ## Lab 5-2 請使用＂伺服馬達＂以及目前所學過的實作，分析與設計一個自己最獨特的實作並簡單的介紹您的作品.
 
+![image](https://github.com/Grace-TA/Microcontroller2024/assets/89304181/c507ccce-07cf-4717-ae66-2a80e8f7b874)
 
 
 ## Lab 5-3 LCD顯示溫度感應器的溫度;若溫度<38 綠LED亮; 若大於38度, 紅色LED亮, 細節請參考以下Demo
