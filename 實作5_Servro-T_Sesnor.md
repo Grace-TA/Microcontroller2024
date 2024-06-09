@@ -13,7 +13,15 @@
 ![image](https://github.com/Grace-TA/Microcontroller2024/assets/89304181/93dc8d21-c3e1-44b9-a44e-09871bc21810)
 
 
-## Lab 5-3 LCD顯示溫度感應器的溫度;若溫度<38 綠LED亮; 若大於38度, 紅色LED亮, 細節請參考以下Demo
+## Lab 5-3 LCD顯示溫度感應器的溫度;若溫度<38度 綠色LED亮; 若大於38度, 紅色LED亮, 細節請參考以下Demo
+
+### 溫度<38度, 綠色LED亮
+
+![image](https://github.com/Grace-TA/Microcontroller2024/assets/89304181/800a0198-d1cd-451e-a0a3-c855272e76f7)
+
+### 溫度>= 38度, 紅色LED亮
+
+![image](https://github.com/Grace-TA/Microcontroller2024/assets/89304181/d49ca572-92ff-4080-b0b3-3cac7b34c893)
 
 
 ## Lab 5-４ 請使用＂溫度感應器＂以及目前所學過的實作，分析與設計一個自己最獨特的實作並簡單的介紹您的作品.
