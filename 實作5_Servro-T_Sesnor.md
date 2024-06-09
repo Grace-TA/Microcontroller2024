@@ -15,11 +15,11 @@
 
 ## Lab 5-3 LCD顯示溫度感應器的溫度;若溫度<38度 綠色LED亮; 若大於38度, 紅色LED亮, 細節請參考以下Demo
 
-### 溫度<38度, 綠色LED亮
+### Case 1: 溫度<38度, 綠色LED亮
 
-![image](https://github.com/Grace-TA/Microcontroller2024/assets/89304181/800a0198-d1cd-451e-a0a3-c855272e76f7)
+![image](https://github.com/Grace-TA/Microcontroller2024/assets/89304181/2ba97220-acce-41d5-848b-64b17531a92a)
 
-### 溫度>= 38度, 紅色LED亮
+### Case 2: 溫度>= 38度, 紅色LED亮
 
 ![image](https://github.com/Grace-TA/Microcontroller2024/assets/89304181/d49ca572-92ff-4080-b0b3-3cac7b34c893)
 
