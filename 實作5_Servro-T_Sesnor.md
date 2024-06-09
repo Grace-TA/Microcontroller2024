@@ -39,3 +39,5 @@ Reference: https://www.tinkercad.com/things/aqvEs0ZU0Ms-vnulab5-120240602/editel
 
 ![image](https://github.com/Grace-TA/Microcontroller2024/assets/89304181/bc54e587-9d76-4807-96f9-6bd8dc6fb7dc)
 
+Reference: https://www.tinkercad.com/things/6di7t8LLEzY-vnulab5-420240609/editel?sharecode=iCrzPKB-TokI7TAkKTp5y7ClmWPJzt922BLe_VVghVc
+
